@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AndroidHW</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="thanks">Thanks for pressing this button.</string>
+    <string name="press">Press in case of emergency</string>
+
+</resources>
